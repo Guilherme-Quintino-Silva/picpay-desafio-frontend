@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Cleiton",
+            "image": "https://randomuser.me/api/portraits/men/9.jpg",
+            "username": "cleitinho@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "André",
+            "image": "https://randomuser.me/api/portraits/men/12.jpg",
+            "username": "andrezinho@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Marcio",
+            "image": "https://randomuser.me/api/portraits/men/13.jpg",
+            "username": "marciola@gmail.com"
+        }
+    ]
+}
